@@ -8,14 +8,14 @@
 - 📫 How to reach me: yamin8000[at]yahoo[dot]com
 
 <details>
-  <summary>My Github stats</summary>
-  
+  <summary>My GitHub stats</summary>
+
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yamin8000&count_private=true&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=yamin8000&count_private=true&show_icons=true&theme=dracula" alt="GitHub stats">
   </div>
-  
+
   <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin8000&theme=dracula&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin8000&theme=dracula&layout=compact" alt="Most used languages">
   </div>
-    
+
 </details>
