@@ -1,4 +1,4 @@
-# Hi/سلام👋
+# Hello there/سلام👋
 
 **Ask not what open source community can do for you, ask what you can do for open source community.**
 
