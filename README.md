@@ -2,7 +2,7 @@
 <title>yamin8000 (YaMiN)</title>
 <style>
 #stat {
-    alignment: center;
+    align-content: center;
 }
 </style>
 </head>
