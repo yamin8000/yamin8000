@@ -1,12 +1,3 @@
-<head>
-<title>yamin8000 (YaMiN)</title>
-<style>
-#stat {
-    align-content: center;
-}
-</style>
-</head>
-
 # Hello there/سلام👋
 
 **Ask not what open source community can do for you, ask what you can do for open source community.**
@@ -19,13 +10,13 @@
 <details>
   <summary>My GitHub stats</summary>
 
-  <div id="stat">
+  <div align="center">
     <a href="https://github.com/yamin8000">
         <img src="https://github-readme-stats.vercel.app/api?username=yamin8000&count_private=true&show_icons=true&theme=dracula" alt="GitHub stats">
     </a>
   </div>
 
-  <div id="stat">
+  <div align="center">
     <a href="https://github.com/yamin8000">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin8000&theme=dracula&layout=compact" alt="Most used languages">
     </a>
