@@ -18,7 +18,7 @@
 
   <div align="center">
     <a href="https://github.com/yamin8000">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin8000&theme=dracula&layout=compact" alt="Most used languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamin8000&theme=dracula&layout=compact&langs_count=10" alt="Most used languages">
     </a>
   </div>
 
