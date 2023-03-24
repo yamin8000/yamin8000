@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on mostly Android projects
 - 👯 I’m looking to collaborate on Android/Kotlin/IoT projects
-- 🤔 I’m looking for help with IoT/Raspberry Pi
-- 📫 How to reach me: yamin8000[at]yahoo[dot]com
+- 🤔 I’m looking for help with Backend/IoT/Raspberry Pi
+- 📫 How to reach me: [My cv](https://github.com/yamin8000/cv)
 
 <details>
   <summary>My GitHub stats</summary>
