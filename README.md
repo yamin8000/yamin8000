@@ -1,11 +1,11 @@
-# Hello there/سلام👋
+# Hello there/سلام
 
-**Ask not what open source community can do for you, ask what you can do for open source community.**
+**Ask not what the open source community can do for you, ask what you can do for the open source community.**
 
-- 🔭 I’m currently working on mostly Android projects
-- 👯 I’m looking to collaborate on Android/Kotlin/IoT projects
-- 🤔 I’m looking for help with Backend/IoT/Raspberry Pi
-- 📫 How to reach me: [My cv](https://github.com/yamin8000/cv)
+- I’m currently working on mostly Android projects
+- I’m looking to collaborate on Android/Kotlin/IoT projects
+- I’m looking for help with Backend/IoT/Raspberry Pi
+- How to reach me: [My cv](https://github.com/yamin8000/cv)
 
 <details>
   <summary>My GitHub stats</summary>
