@@ -5,7 +5,7 @@
 - I’m currently working on mostly Android projects
 - I’m looking to collaborate on Android/Kotlin/IoT projects
 - I’m looking for help with Backend/IoT/Raspberry Pi
-- How to reach me: [My cv](https://github.com/yamin8000/cv)
+- How to reach me: [My CV](https://github.com/yamin8000/cv), [yamins.ir](https://yamins.ir)
 
 <details>
   <summary>My GitHub stats</summary>
